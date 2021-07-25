@@ -12,9 +12,9 @@ Ex: Arquivo de texto, Excel
 
 Tipos de Bancos de dados
 
-- SQL SERVER --- =                          |    Sistemas que precisam      |
-- ORACLE -------   =    Relacionais     |    de uma confiabilidade        |  
-- MYSQL -------- =                             |    muito grande dos dados      |
+- SQL SERVER --- =                        |     Sistemas que precisam      |
+- ORACLE -------   =    Relacionais       |     de uma confiabilidade      |  
+- MYSQL -------- =                        |     muito grande dos dados     |
 
 Atomicidade
 - Garante que todos os dados estão corretos, para coloca-los dentro de uma tabela.
