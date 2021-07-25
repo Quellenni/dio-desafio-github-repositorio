@@ -1,0 +1,35 @@
+
+Aula 1 
+ 
+O QUE É UM SQL SERVER?  ( Data Base Management System)
+
+- Softwares que padronizam os bancos de dados.
+Ex: Arquivo de texto, Excel
+- Lidar com padrões de dados armazenados;
+- Ser uma interface entre esses dados e sistemas;
+- Ser interface entre esses dados e pessoas
+- Colocar usuários com acessos e níveis de acesso (excluir dados / inserir dados)
+
+Tipos de Bancos de dados
+
+- SQL SERVER --- =                          |    Sistemas que precisam      |
+- ORACLE -------   =    Relacionais     |    de uma confiabilidade        |  
+- MYSQL -------- =                             |    muito grande dos dados      |
+
+Atomicidade
+- Garante que todos os dados estão corretos, para coloca-los dentro de uma tabela.
+
+Aula 2
+
+INSTALAÇÃO DO SQL SERVER EDIÇÃO 2019 EXPRESS EDITION
+
+
+Link para o download do SQL Server (Obs: Edição gratuita --> Express):
+
+https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
+
+Link para a instalação do SSMS: (Obs: Após a instalação clicar na opção "Instalar SSMS")
+
+https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15
+
+
